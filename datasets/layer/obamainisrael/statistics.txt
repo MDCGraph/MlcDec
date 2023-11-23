@@ -1,0 +1,6 @@
+num_of_l0_nodes:2279535
+num_of_l1_nodes:2279535
+num_of_l2_nodes:2279535
+num_of_l0_edges:1807134
+num_of_l1_edges:1463385
+num_of_l2_edges:557445

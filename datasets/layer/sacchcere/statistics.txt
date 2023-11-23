@@ -1,0 +1,14 @@
+num_of_l0_nodes:6570
+num_of_l1_nodes:6570
+num_of_l2_nodes:6570
+num_of_l3_nodes:6570
+num_of_l4_nodes:6570
+num_of_l5_nodes:6570
+num_of_l6_nodes:6570
+num_of_l0_edges:58383
+num_of_l1_edges:33077
+num_of_l2_edges:26554
+num_of_l3_edges:33977
+num_of_l4_edges:1862
+num_of_l5_edges:1347
+num_of_l6_edges:91952
